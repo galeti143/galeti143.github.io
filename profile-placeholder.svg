@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153b49"/><stop offset=".55" stop-color="#28204e"/><stop offset="1" stop-color="#101827"/></linearGradient><radialGradient id="r"><stop stop-color="#58e6e1" stop-opacity=".34"/><stop offset="1" stop-color="#58e6e1" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="800" fill="url(#g)"/><circle cx="300" cy="270" r="260" fill="url(#r)"/>
+<circle cx="300" cy="285" r="115" fill="#91a6bf" opacity=".35"/><path d="M95 760c12-170 95-260 205-260s193 90 205 260" fill="#91a6bf" opacity=".3"/>
+<text x="300" y="690" text-anchor="middle" font-family="Arial,sans-serif" font-size="70" font-weight="700" fill="#eafcff">GG</text>
+</svg>
